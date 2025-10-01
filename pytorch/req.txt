@@ -1,0 +1,8 @@
+ipykernel
+numpy
+pandas
+opencv-python
+matplotlib
+kaggle
+kagglehub
+scikit-learn
